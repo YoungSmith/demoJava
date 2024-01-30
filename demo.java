@@ -2,7 +2,7 @@ import java.util.*;
 
 public class demo{
     public static void main(String args[]){
-        System.out.println("Hello again Jenkins");
+        System.out.println("Hello  Jenkins");
         float a,b;
         char choice;
         Scanner sc = new Scanner(System.in);
